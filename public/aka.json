@@ -1,0 +1,234 @@
+[
+   {
+      "services": [
+         
+         {
+            "id": "615ad0fbcc819bfcedcee643",
+            "name": "Boxing",
+            "description": "The skill of fighting with the fists, usually with padded leather gloves. Referred to as the sweet science, boxers use elaborate foot maneuvers and quick jabs for offense.",
+            "fee": "3000",
+            "img": "https://www.muscleandfitness.com/wp-content/uploads/2020/05/boxer-training-bag.jpg?w=1200&h=675&crop=1&quality=86&strip=all",
+            "capacity": 35
+         },
+         
+   
+         {
+            "id": "615ad0fb6badd12d4c66bbd5",
+            "name": "Wrestling",
+            "description": "Regarded as the world’s oldest sport in which contestants struggle hand-to-hand, attempting to throw or take down their opponent without striking blows. Some wrestling styles include Freestyle, Greco-Roman and catch-as-catch-can.",
+            "fee": "3000",
+            "img": "https://i0.wp.com/wbbjj.com/wp-content/uploads/2020/02/capture-20200222-153013.png?w=829&ssl=1",
+            "capacity": 35
+         },
+   
+   
+         {
+            "id": "615ad0fb34cb2d2aa8b1f285",
+            "name": "Kickboxing",
+            "description": "Sportive martial art combining boxing punches and martial arts kicks. Many different styles with different rules exist such as Muay Thai, full-contact karate and Asian Rules Fighting.",
+            "fee": "3000",
+            "img": "https://www.reviewjournal.com/wp-content/uploads/2019/11/13020887_web1_jonesufc239web.jpg?crop=1",
+            "capacity": 35
+         },
+   
+   
+         {
+            "id": "615ad0fba69597eab599527e",
+            "name": "Brazilian Jiu-Jitsu",
+            "description": "In the mid-1920s, Carlos Gracie opened the Gracie Jiu-Jitsu Academy in Rio de Janeiro, Brazil. He taught the skills he learned from Japanese judo master Esai Maeda. The skills were later modified to use less strength and to be more effective against larger opponents. Brazilian jiu-jitsu’s reputation spread because of the success of its practitioners in no-holds-barred contests.",
+            "fee": "3000",
+            "img": "https://journeybjjacademy.com/wp-content/uploads/2019/09/celebrities-who-practice-jiu-jitsu.jpg",
+            "capacity": 28
+         },
+   
+   
+         {
+            "id": "615ad0fbaaf203e24e14cddc",
+            "name": "Jiu-Jitsu",
+            "description": "Ancient Japanese martial art that encompasses throwing, joint locks, striking and weapons training.",
+            "fee": "2050",
+            "img": "https://media.defense.gov/2015/Jun/11/2001078381/780/780/0/150610-F-RA202-134.JPG",
+            "capacity": 40
+         },
+   
+   
+         {
+            "id": "615ad0fb48a82cb8e2610335",
+            "name": "Karate",
+            "description": "Name used to identify many Japanese and Okinawan martial arts. While known for powerful, linear techniques, many karate styles also incorporate softer, circular techniques. Some of the popular styles of karate are Kyokushinkai, Shotokan, Goju-Ryu, Shorin-Ryu and Kenpo—which is the first “Americanized” version of karate",
+            "fee": "2050",
+            "img": "https://www.femexkarate.com/wp-content/uploads/2019/09/Shotokan-karate.jpg",
+            "capacity": 80
+         },
+   
+   
+         {
+            "id": "615ad0fbc053e91341c71963",
+            "name": "Kung Fu",
+            "description": "Also referred to as Gung Fu, Chinese Boxing and Wu Shu. There are hundreds of Kung Fu styles. Many are patterned after movements of animals. Some well-known styles of Kung Fu are Wing Chun, Praying Mantis, Pau Kua, Tai-Chi-Ch’uan and Shuai Chiao.",
+            "fee": "2050",
+            "img": "https://www.master-sh-yu.com/wp-content/uploads/2019/08/XqffXVMGSgIMpzBxinvoQ-e1575654366554.jpg",
+            "capacity": 80
+         },
+   
+   
+         {
+            "id": "615ad0fb87db0e4dd03a8a8a",
+            "name": "Taekwondo",
+            "description": "One of the most practiced martial arts in the world, Taekwondo is a Korean style known for its flashy kicking techniques.",
+            "fee": "2050",
+            "img": "https://www.sportsver.com/wp-content/uploads/2020/03/practicing-taekwondo-training.jpg",
+            "capacity": 80
+         }
+      ]
+   },
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   {
+      "coaches": [
+         {
+            "img": "https://static.wixstatic.com/media/e0dd64_812cde2a5837433fa6d48be74a1615e8~mv2.jpg/v1/fill/w_219,h_218,q_90/e0dd64_812cde2a5837433fa6d48be74a1615e8~mv2.webp",
+            "name": "Javier Mendez",
+            "experience": 25,
+            "style": "Boxing",
+            "age": "40"
+         },
+         {
+            "img": "https://static.wixstatic.com/media/e0dd64_d9291da5c1fe4eadbc3849e8e7d1914e~mv2.jpg/v1/fill/w_219,h_218,q_90/e0dd64_d9291da5c1fe4eadbc3849e8e7d1914e~mv2.webp",
+            "name": "Derek Yuen",
+            "experience": 15,
+            "style": "Boxing",
+            "age": "38"
+         },
+         {
+            "img": "https://static.wixstatic.com/media/e0dd64_e07c173f60e64c8491502a95f8eacd35~mv2.jpg/v1/fill/w_218,h_218,q_90/e0dd64_e07c173f60e64c8491502a95f8eacd35~mv2.webp",
+            "name": "Ron Keslar",
+            "experience": 25,
+            "style": "Wrestling",
+            "age": "36"
+         },
+         {
+            "img": "https://static.wixstatic.com/media/e0dd64_7c90415877854d7ca6ea3bd638d9b4ff~mv2.jpg/v1/fill/w_219,h_218,q_90/e0dd64_7c90415877854d7ca6ea3bd638d9b4ff~mv2.webp",
+            "name": "Wayne Phillips",
+            "experience": 25,
+            "style": "Wrestling",
+            "age": "52"
+         },
+         {
+            "img": "https://static.wixstatic.com/media/e0dd64_817ac67321514afaaed8530ee031fdcb~mv2.png/v1/fill/w_219,h_218,q_90/e0dd64_817ac67321514afaaed8530ee031fdcb~mv2.webp",
+            "name": "Abel Carrasco",
+            "experience": 25,
+            "style": "Kickboxing",
+            "age": "55"
+         },
+         {
+            "img": "https://static.wixstatic.com/media/e0dd64_dfeb65b31c18457bb551cf2286120cd5~mv2.jpg/v1/fill/w_219,h_218,q_90/e0dd64_dfeb65b31c18457bb551cf2286120cd5~mv2.webp",
+            "name": "Sheila Adamos",
+            "experience": 25,
+            "style": "Kickboxing",
+            "age": "39"
+         },
+         {
+            "img": "https://static.wixstatic.com/media/e0dd64_d62d88721bfe4d9b97f3222bf3389414~mv2.jpg/v1/fill/w_219,h_218,q_90/e0dd64_d62d88721bfe4d9b97f3222bf3389414~mv2.webp",
+            "name": "Audra Carrasco",
+            "experience": 25,
+            "style": "Brazilian Jiu-Jitsu",
+            "age": "44"
+         },
+         {
+            "img": "https://static.wixstatic.com/media/e0dd64_8523f64222104f009c8c27eb0d2daaa4~mv2.jpg/v1/fill/w_218,h_218,q_90/e0dd64_8523f64222104f009c8c27eb0d2daaa4~mv2.webp",
+            "name": "Felix De Leon",
+            "experience": 25,
+            "style": "Brazilian Jiu-Jitsu",
+            "age": "36"
+         },
+         {
+            "img": "https://static.wixstatic.com/media/e0dd64_39761b4c3ecc42efb38068dae47bccaa~mv2.jpg/v1/fill/w_219,h_218,q_90/e0dd64_39761b4c3ecc42efb38068dae47bccaa~mv2.webp",
+            "name": "Phil De Vera",
+            "experience": 25,
+            "style": "Jiu-Jitsu",
+            "age": "39"
+         },
+         {
+            "img": "https://static.wixstatic.com/media/e0dd64_58df224919b746a5bad33a075f9a5ef7~mv2.jpg/v1/fill/w_219,h_218,q_90/e0dd64_58df224919b746a5bad33a075f9a5ef7~mv2.webp",
+            "name": "Thomas Diagne",
+            "experience": 25,
+            "style": "Jiu-Jitsu",
+            "age": "36"
+         },
+         {
+            "img": "https://static.wixstatic.com/media/e0dd64_ac9a443dad3a4a93a8d87ec76d7aadb7~mv2.jpg/v1/fill/w_219,h_218,q_90/e0dd64_ac9a443dad3a4a93a8d87ec76d7aadb7~mv2.webp",
+            "name": "Hector Fernandez",
+            "experience": 25,
+            "style": "Karate",
+            "age": "36"
+         },
+         {
+            "img": "https://static.wixstatic.com/media/e0dd64_9a7df043755d44f89b29099dd3586ae2~mv2.jpg/v1/fill/w_218,h_218,q_90/e0dd64_9a7df043755d44f89b29099dd3586ae2~mv2.webp",
+            "name": "Isaiah Gonzalez",
+            "experience": 25,
+            "style": "Karate",
+            "age": "50"
+         },
+         {
+            "img": "https://static.wixstatic.com/media/e0dd64_65a3bcfd10254577beea62300b198001~mv2.jpg/v1/fill/w_219,h_218,q_90/e0dd64_65a3bcfd10254577beea62300b198001~mv2.webp",
+            "name": "Emanuel Kangah",
+            "experience": 25,
+            "style": "Kung Fu",
+            "age": "45"
+         },
+         {
+            "img": "https://static.wixstatic.com/media/e0dd64_3d7cc71ea7a64a30bdb5c2a388da38a9~mv2.jpg/v1/fill/w_219,h_218,q_90/e0dd64_3d7cc71ea7a64a30bdb5c2a388da38a9~mv2.webp",
+            "name": "Shane Keefe",
+            "experience": 25,
+            "style": "Kung Fu",
+            "age": "37"
+         },
+         {
+            "img": "https://static.wixstatic.com/media/e0dd64_4a33f1cbf3ab45d08c755586fcd879c7~mv2.jpg/v1/fill/w_219,h_218,q_90/e0dd64_4a33f1cbf3ab45d08c755586fcd879c7~mv2.webp",
+            "name": "Eric Luna",
+            "experience": 25,
+            "style": "Taekwondo",
+            "age": "36"
+         },
+         {
+            "img": "https://static.wixstatic.com/media/e0dd64_2ecb666d08e64c3cad0fbe0305c3313d~mv2.jpg/v1/fill/w_218,h_218,q_90/e0dd64_2ecb666d08e64c3cad0fbe0305c3313d~mv2.webp",
+            "name": "Reggie Queja",
+            "experience": 25,
+            "style": "Taekwondo",
+            "age": "38"
+         }
+      ]
+   },
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   {
+      "graduates": [
+         {
+            "name": "Khabib Nurmagomedov",
+            "description": "Khabib known as the most famous and clussy Muslim UFC fighter and considered the greatest UFC Lightweight champion of the world who belongs to Dagestan Republic of Russia.",
+            "style": "Wrestling",
+            "status": "Retired",
+            "achievement": "29-0 Undefeated UFC Lightweight Champion of the world. 2 times World Combat Sambo Champion"
+         }
+      ]
+   }
+]
